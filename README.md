@@ -10,3 +10,8 @@ Learning Python
 cloud computing
 
 contribute to open source
+
+## Projects
+
+- **ISL Ticket Booking System**: A web app for booking Indian Super League match tickets using React.js and Supabase.
+- **Text Editor in C**: A command-line 2D graphics text editor built using C.
